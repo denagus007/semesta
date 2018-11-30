@@ -1,0 +1,40 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "co.id.app.aisa",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "5.7.0",
+    "applicationType": "uaa",
+    "baseName": "aisa",
+    "packageName": "co.id.app.aisa",
+    "packageFolder": "co/id/app/aisa",
+    "serverPort": "9999",
+    "authenticationType": "uaa",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "postgresql",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": "elasticsearch",
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "gradle",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "ZTkxMDdkMWQ1YThjYjU2MTg5MDNhMjMwMmY1ODc3NjEwOGFiN2U3Mzk5NzZlMmUwYjJkZmVlZjRkYjRlZDU0NDU0YTRjODViODIxNjgzM2M0NGZhZWQ5YTNjZmJiNTk2ZjMyNjIyODFkY2VmODYxZDQ5YTRlYmZlMGQwZDRkODM=",
+    "testFrameworks": [
+      "cucumber"
+    ],
+    "jhiPrefix": "jhi",
+    "otherModules": [],
+    "enableTranslation": true,
+    "clientPackageManager": "npm",
+    "nativeLanguage": "en",
+    "languages": [
+      "en",
+      "id"
+    ],
+    "skipClient": true
+  }
+}
